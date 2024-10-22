@@ -9,3 +9,9 @@ Recent movements have pressured museums to confront their racist legacies. Howev
 This presentation examines using data science to systematically uncover and replace derogatory language in a botanical collection database of over 1 million specimens.
 
 The goal is provide a means to purge museums’ digital archives of racist ideologies that have inhibited diversity.
+
+-------
+
+Files in the repository:
+* `Derogat_terms_search.ipynb` - the Jupyter notebook demo of the project. To view the version with rendered maps, please use: https://nbviewer.org/github/v-post/Leveraging-Data-Science-to-Advance-Equity/blob/main/Derogat_terms_search.ipynb
+* `derog_finder.py` - the command line script with the main fucntionality from the notebook
